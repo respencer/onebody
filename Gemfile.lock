@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/Hermanverschooten/pdf-writer.git
+  remote: https://github.com/Hermanverschooten/pdf-writer
   revision: f57c298a2527893acd62430aefc2516e76499633
   ref: f57c298
   specs:
@@ -8,7 +8,7 @@ GIT
       transaction-simple (~> 1.3)
 
 GIT
-  remote: git://github.com/bokmann/font-awesome-rails.git
+  remote: https://github.com/bokmann/font-awesome-rails
   revision: a67a67e45d26ccd646153378944a3596decd4982
   ref: a67a67e
   specs:
@@ -16,14 +16,14 @@ GIT
       railties (>= 3.2, < 5.0)
 
 GIT
-  remote: git://github.com/seven1m/acts_as_taggable_on_steroids.git
+  remote: https://github.com/seven1m/acts_as_taggable_on_steroids
   revision: cffba0397c1d367baeee273125afcf8aa4d8df76
   ref: cffba03
   specs:
     acts_as_taggable_on_steroids (1.1)
 
 GIT
-  remote: git://github.com/seven1m/load_and_authorize_resource.git
+  remote: https://github.com/seven1m/load_and_authorize_resource
   revision: a77cce9a1170c59f3ec1abde9390c5107aaf962e
   ref: a77cce9
   specs:
@@ -31,7 +31,7 @@ GIT
       rails (>= 4.0)
 
 GIT
-  remote: git://github.com/stefanpenner/country_select.git
+  remote: https://github.com/stefanpenner/country_select
   revision: d3ba0b99beacf66f189816db88ed46342698b539
   ref: d3ba0b9
   specs:
